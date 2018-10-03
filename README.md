@@ -14,21 +14,19 @@ by over 6 million users, and it includes more than 250 popular data science pack
 * Python 2.7 or above
 * 4 GB of RAM (May run less than 4GB but will not provide good qualification)
 
-=====================
-Installing on Windows
-=====================
+## Installing on Windows
 
 #. Download the installer:
 
-   * `Miniconda installer for
-     Windows <https://conda.io/miniconda.html>`_.
+   * [Miniconda installer for
+     Windows](https://conda.io/miniconda.html>)
 
-   * `Anaconda installer for
-     Windows <https://www.anaconda.com/download/>`_.
+   * [Anaconda installer for
+     Windows](https://www.anaconda.com/download)
 
-#. Double-click the ``.exe`` file.
+# Double-click the ``.exe`` file.
 
-#. Follow the instructions on the screen.
+# Follow the instructions on the screen.
 
    If you are unsure about any setting, accept the defaults. You
    can change them later.
@@ -36,10 +34,8 @@ Installing on Windows
    When installation is finished, from the **Start** menu, open the
    Anaconda Prompt.
 
-#. :doc:`Test your installation <test-installation>`.
+# [Test your installation](https://conda.io/docs/user-guide/install/test-installation.html)
 
-
-.. _install-win-silent:
 
 Installing in silent mode
 =========================
