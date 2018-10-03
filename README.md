@@ -57,8 +57,27 @@ NOTE: Removing a program is different in Windows 10.
 
 ## [Reference](https://conda.io/docs/user-guide/install/windows.html)
 
+## Common Commands
 
-## install Pip
+Here is a list of frequently used conda commands, and you can see a longer list at the Conda cheet sheet..
+
+* ***conda info***: Displays information about current conda install.
+* ***conda help***: Displays the list of conda commands and their help strings.
+* ***conda list***: Lists all packages installed in the current environment.
+* ***conda env list***: Displays the list of environments installed and the currently active one is marked by a star *.
+* ***conda serarch somepackage***: search for a package to see if it is available.
+* ***conda install somepackage***: Installs a Python package.
+* ***conda install somepackage=0.7***: Installs a specific version of a package.
+* ***conda update somepackage***: Updates a Python package to the latest available version.
+* ***conda update anaconda***: Updates all packages.
+* ***conda update conda***: Updates conda itself.
+* ***conda update --all***: Updates all packages.
+* ***conda remove somepackage***: Uninstalls a Python package.
+* ***conda remove -n myenv --all***: Removes the environment named myenv.
+* ***conda clean -t***: Removes the old tarballs that are left over after installation and updates.
+
+
+## Install Pip
 
 [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is a package management system used to install and manage software packages written in Python. 
 Many packages can be found in the default source for packages and their dependencies.
