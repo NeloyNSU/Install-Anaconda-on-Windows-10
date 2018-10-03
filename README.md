@@ -1,6 +1,3 @@
-Necessary steps to install anaconda in windows 10. Also instruction is provided to run jupyter notebook on windows with required libraries.
-
-
 ## What is Anaconda ?
 
 [Anaconda](https://www.anaconda.com/) is a free and open source distribution of the Python and R programming languages for data science 
