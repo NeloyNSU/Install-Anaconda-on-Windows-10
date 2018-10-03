@@ -55,7 +55,6 @@ by over 6 million users, and it includes more than 250 popular data science pack
 
 NOTE: Removing a program is different in Windows 10.
 
-## [Reference](https://conda.io/docs/user-guide/install/windows.html)
 
 ## Common Commands
 
@@ -76,6 +75,22 @@ Here is a list of frequently used conda commands, and you can see a longer list 
 * ***conda remove -n myenv --all***: Removes the environment named myenv.
 * ***conda clean -t***: Removes the old tarballs that are left over after installation and updates.
 
+
+## A few references about Anaconda:
+
+* Installation Guide: https://conda.io/docs/user-guide/install/windows.html
+
+* Anaconda websit: https://store.continuum.io/cshop/anaconda/
+
+* Conda user cheet sheet http://conda.pydata.org/docs/_downloads/conda-cheatsheet.pdf
+
+* List of Anaconda packages: http://docs.continuum.io/anaconda/pkg-docs
+
+* Conda main page: http://conda.io/
+
+* Anaconda mailing list: https://groups.google.com/a/continuum.io/forum/#!forum/anaconda
+
+* Conda FAQ: http://conda.pydata.org/docs/faq.html
 
 ## Install Pip
 
