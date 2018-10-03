@@ -57,3 +57,11 @@ NOTE: Removing a program is different in Windows 10.
 
 ## [Reference](https://conda.io/docs/user-guide/install/windows.html)
 
+
+## install Pipeline(pip)
+
+```
+py -m pip install --upgrade pip
+py -m pip install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-0.12.0-py3-none-any.whl
+
+```
