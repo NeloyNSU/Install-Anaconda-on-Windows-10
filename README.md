@@ -58,7 +58,10 @@ NOTE: Removing a program is different in Windows 10.
 ## [Reference](https://conda.io/docs/user-guide/install/windows.html)
 
 
-## install Pipeline(pip)
+## install Pip
+
+[pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) is a package management system used to install and manage software packages written in Python. 
+Many packages can be found in the default source for packages and their dependencies.
 
 ```
 py -m pip install --upgrade pip
