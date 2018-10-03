@@ -59,7 +59,7 @@ NOTE: Removing a program is different in Windows 10.
 
 ## Common Commands
 
-Here is a list of frequently used conda commands, and you can see a longer list at the Conda cheet sheet..
+Here is a list of frequently used conda commands, and you can see a longer list at the [Conda cheet sheet..](https://leifengtechblog.files.wordpress.com/2016/01/conda-cheatsheet.pdf)
 
 * ***conda info***: Displays information about current conda install.
 * ***conda help***: Displays the list of conda commands and their help strings.
