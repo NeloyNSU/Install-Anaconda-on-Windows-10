@@ -36,7 +36,7 @@ by over 6 million users, and it includes more than 250 popular data science pack
 
 - [Test your installation](https://conda.io/docs/user-guide/install/test-installation.html)
 
-Updating conda
+## Updating conda
 ==============
 
 - Open your Anaconda Prompt from the start menu.
@@ -46,7 +46,7 @@ Updating conda
 - Run ``conda update conda``.
 
 
-Uninstalling conda
+## Uninstalling conda
 ==================
 
 - In the Windows Control Panel, click Add or Remove Program.
