@@ -9,3 +9,7 @@ and machine learning related applications (large-scale data processing, predicti
 package management and deployment. Package versions are managed by the package management system conda.The Anaconda distribution is used 
 by over 6 million users, and it includes more than 250 popular data science packages suitable for Windows, Linux, and MacOS.
 
+## prerequisites for Anaconda
+
+* Python 2.7 or above
+* 4 GB of RAM (May run less than 4GB but will not provide good qualification)
